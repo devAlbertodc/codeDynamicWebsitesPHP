@@ -76,11 +76,11 @@ echo $moustaches[2]; // this will display "Fu Manchu"
 				
 				<?php } else { ?>
 				
-				<a href="/05_GetYourHandsDirty" class="button prev">Previous Lecture</a>
+				<a href="../05_GetYourHandsDirty" class="button prev">Previous Lecture</a>
 				
 				<?php } ?>
 				
-				<a href="/07_AssociativeArrays" class="button next">Next Lecture</a>
+				<a href="../07_AssociativeArrays" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

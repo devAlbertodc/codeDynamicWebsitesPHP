@@ -58,8 +58,8 @@ I'm $my_age years old, and like the colour $fav_colour.");
 			</div><!-- end sandbox -->
 			
 			<div class="navs cf">
-				<a href="/02_Variables" class="button prev">Previous Lecture</a>
-				<a href="/04_DefiningConstants" class="button next">Next Lecture</a>
+				<a href="../02_Variables" class="button prev">Previous Lecture</a>
+				<a href="../04_DefiningConstants" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 		</div><!-- end wrapper -->

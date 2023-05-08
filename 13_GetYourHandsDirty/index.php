@@ -92,8 +92,8 @@
 			<a href="practice.php" class="button">Check out your example</a>
 			
 			<div class="navs cf">
-				<a href="/12_Elseif" class="button prev">Previous Lecture</a>
-				<a href="/14_ComparisonOperators" class="button next">Next Lecture</a>
+				<a href="../12_Elseif" class="button prev">Previous Lecture</a>
+				<a href="../14_ComparisonOperators" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

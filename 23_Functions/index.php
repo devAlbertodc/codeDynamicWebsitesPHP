@@ -119,8 +119,8 @@ foreach ($dinner as $ingredient) {
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/22_DoWhileLoop" class="button prev">Previous Lecture</a>
-				<a href="/24_CustomFunctions" class="button next">Next Lecture</a>
+				<a href="../22_DoWhileLoop" class="button prev">Previous Lecture</a>
+				<a href="../24_CustomFunctions" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

@@ -116,8 +116,8 @@
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/15_LogicalOperators" class="button prev">Previous Lecture</a>
-				<a href="/17_StringOperators" class="button next">Next Lecture</a>
+				<a href="../15_LogicalOperators" class="button prev">Previous Lecture</a>
+				<a href="../17_StringOperators" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

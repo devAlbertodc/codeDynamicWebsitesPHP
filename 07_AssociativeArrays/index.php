@@ -51,8 +51,8 @@ $handlebar = array(
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/06_Arrays" class="button prev">Previous Lecture</a>
-				<a href="/08_MultiDimensionalArrays" class="button next">Next Lecture</a>
+				<a href="../06_Arrays" class="button prev">Previous Lecture</a>
+				<a href="../08_MultiDimensionalArrays" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

@@ -49,8 +49,8 @@ define("TITLE", "Defining Constants");
 			</div><!-- end sandbox -->
 			
 			<div class="navs cf">
-				<a href="/03_MoreVariables" class="button prev">Previous Lecture</a>
-				<a href="/05_GetYourHandsDirty" class="button next">Next Lecture</a>
+				<a href="../03_MoreVariables" class="button prev">Previous Lecture</a>
+				<a href="../05_GetYourHandsDirty" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 		</div><!-- end wrapper -->

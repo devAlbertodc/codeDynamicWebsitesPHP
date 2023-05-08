@@ -80,8 +80,8 @@
 			<a href="practice.php" class="button">Check out your example</a>
 			
 			<div class="navs cf">
-				<a href="/08_MultiDimensionalArrays" class="button prev">Previous Lecture</a>
-				<a href="/10_IfStatements" class="button next">Next Lecture</a>
+				<a href="../08_MultiDimensionalArrays" class="button prev">Previous Lecture</a>
+				<a href="../10_IfStatements" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

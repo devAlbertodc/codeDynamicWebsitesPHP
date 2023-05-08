@@ -68,8 +68,8 @@
 			</div><!-- end sandbox -->
 			
 			<div class="navs cf">
-				<a href="/01_FirstPage" class="button prev">Previous Lecture</a>
-				<a href="/03_MoreVariables" class="button next">Next Lecture</a>
+				<a href="../01_FirstPage" class="button prev">Previous Lecture</a>
+				<a href="../03_MoreVariables" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 		</div><!-- end wrapper -->

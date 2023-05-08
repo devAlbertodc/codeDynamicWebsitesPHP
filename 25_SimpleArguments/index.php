@@ -106,8 +106,8 @@
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/24_CustomFuncions" class="button prev">Previous Lecture</a>
-				<a href="/26_Final" class="button next">Next Lecture</a>
+				<a href="../24_CustomFuncions" class="button prev">Previous Lecture</a>
+				<a href="../26_Final" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

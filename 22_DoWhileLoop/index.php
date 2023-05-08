@@ -61,8 +61,8 @@ while ( $i <= 10 );
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/21_ForeachLoop" class="button prev">Previous Lecture</a>
-				<a href="/23_Functions" class="button next">Next Lecture</a>
+				<a href="../21_ForeachLoop" class="button prev">Previous Lecture</a>
+				<a href="../23_Functions" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

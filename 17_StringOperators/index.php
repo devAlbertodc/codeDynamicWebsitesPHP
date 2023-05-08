@@ -51,8 +51,8 @@ echo $a; // This prints "Hola Mi Amigos!"
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/16_ArithmeticOperators" class="button prev">Previous Lecture</a>
-				<a href="/18_AssignmentOperators" class="button next">Next Lecture</a>
+				<a href="../16_ArithmeticOperators" class="button prev">Previous Lecture</a>
+				<a href="../18_AssignmentOperators" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

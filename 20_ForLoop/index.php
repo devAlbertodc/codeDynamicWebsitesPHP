@@ -66,8 +66,8 @@ for ($a = 0; $a <= 20; $a++) {
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/19_WhileLoop" class="button prev">Previous Lecture</a>
-				<a href="/21_ForeachLoop" class="button next">Next Lecture</a>
+				<a href="../19_WhileLoop" class="button prev">Previous Lecture</a>
+				<a href="../21_ForeachLoop" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

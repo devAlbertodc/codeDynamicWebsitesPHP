@@ -158,8 +158,8 @@ if ($yearsOnEarth <= 25) {
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/13_GetYourHandsDirty" class="button prev">Previous Lecture</a>
-				<a href="/15_LogicalOperators" class="button next">Next Lecture</a>
+				<a href="../13_GetYourHandsDirty" class="button prev">Previous Lecture</a>
+				<a href="../15_LogicalOperators" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

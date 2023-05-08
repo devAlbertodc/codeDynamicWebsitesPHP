@@ -63,8 +63,8 @@
 			<a href="practice.php" class="button">Check out your example</a>
 			
 			<div class="navs cf">
-				<a href="/04_DefiningConstants" class="button prev">Previous Lecture</a>
-				<a href="/06_Arrays" class="button next">Next Lecture</a>
+				<a href="../04_DefiningConstants" class="button prev">Previous Lecture</a>
+				<a href="../06_Arrays" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>
